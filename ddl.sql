@@ -6,3 +6,7 @@ CREATE VIEW vw_sales SELECT id, price FROM SALES;
 -- CREAR TABLA cliente
 
 CREATE TABLE client (id int primary key, name varchar(250) not null);
+
+-- CREAR VISTA cliente view
+
+CREATE VIEW vw_client SELECT id FROM client;
