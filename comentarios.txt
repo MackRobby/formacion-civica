@@ -1,0 +1,3 @@
+17/11/20
+
+El cliente quiere probar una posible version con tabla de productos.
