@@ -17,4 +17,4 @@ CREATE TABLE product (id int primary key, name varchar(200), price float);
 
 -- CREAR TABLE chema
 
-CREATE TABLE chema (id int, price float);
+CREATE TABLE chema2 (id int, price float);
