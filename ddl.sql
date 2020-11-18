@@ -15,3 +15,6 @@ CREATE VIEW vw_client SELECT id FROM client;
 
 CREATE TABLE product (id int primary key, name varchar(200), price float);
 
+-- CREAR TABLE chema
+
+CREATE TABLE chema (id int, price float);
