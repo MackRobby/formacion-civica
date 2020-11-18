@@ -15,3 +15,4 @@ CREATE VIEW vw_client SELECT id FROM client;
 
 CREATE TABLE product (id int primary key, name varchar(200), price float);
 
+CREATE TABLE RPRODCUT (id int primary key);
