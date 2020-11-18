@@ -39,10 +39,4 @@ CREATE VIEW vw_client SELECT id FROM client;
 
 CREATE TABLE product (id int primary key, name varchar(200), price float);
 
-<<<<<<< HEAD
 CREATE TABLE RPRODUCT (id int primary key);
-=======
--- CREAR VIEW
-
-CREATE VIEW JOSE (id int, price float);
->>>>>>> 285e7661f7ee14c730ec1eb46bf0685168e925d7
